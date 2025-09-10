@@ -25,7 +25,7 @@
     "bourbon": "^7.0.0",
     "parcel-bundler": "^1.12.4",
     "sass": "^1.26.5",
-    "stylelint": "10.1.0"
+    "stylelint": "16.23.1"
   },
   "scripts": {
     "contrib": "npx parcel contrib/index.html --out-dir contrib/build",
